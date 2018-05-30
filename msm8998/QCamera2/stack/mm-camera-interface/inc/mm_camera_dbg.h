@@ -27,8 +27,11 @@
  *
  */
 
+
 #ifndef __MM_CAMERA_DBG_H__
 #define __MM_CAMERA_DBG_H__
+
+#define LOG_DEBUG 1
 
 // System dependencies
 #include <utils/Log.h>
